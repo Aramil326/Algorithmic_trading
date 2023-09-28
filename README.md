@@ -5,6 +5,7 @@
 * QT (GUI)
 * clang-format (style testing)
 * QCustomPlot (graph lib)
+* Makefile
 
 ## Примененные паттерны
 * MVC
